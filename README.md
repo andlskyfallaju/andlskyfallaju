@@ -106,6 +106,7 @@ fuel      = music + games + caffeine
 
 <a href="mailto:andimakuyana@gmail.com"><img src="https://img.shields.io/badge/EMAIL-andimakuyana@gmail.com-4361ee?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a12" /></a>
 <a href="https://newgeneraton.dpdns.org/"><img src="https://img.shields.io/badge/WEBSITE-newgeneraton.dpdns.org-9d4edd?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0a12" /></a>
+<a href="https://www.linkedin.com/in/andile-makuyana-passionatewebdev/"><img src="https://img.shields.io/badge/LINKEDIN-https://www.linkedin.com/in/andile-makuyana-passionatewebdev/-9d4edd?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a12" /></a>
 
 <br/><br/>
 
